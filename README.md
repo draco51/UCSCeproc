@@ -1,1 +1,1 @@
-This is the project of e-Procurement System to manage procurements easirly.
+This is a prototype of Online Procurement System built for Finance Department of University of Colombo School of Computing. 
